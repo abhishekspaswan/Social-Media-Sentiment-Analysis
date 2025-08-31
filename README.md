@@ -19,10 +19,6 @@ nltk
 
 Install dependencies using:
 
-bash
-
-
-pip install snscrape pandas matplotlib seaborn vaderSentiment nltk
 Usage
 Run the Script:
 
